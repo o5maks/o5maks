@@ -8,7 +8,7 @@
     "Python": {
       "version": "latest",
       "with": ["Anaconda"],
-      "for": ["IA", "Minimal Desktop App", "Data Manipulation (Like Image)", ...],
+      "for": ["AI/IA", "Minimal Desktop App", "Data Manipulation (Like Image)", ...],
       "framework": ["Tensorflow", "PyTorch", "Diffusers", "Tkinter/CustomTkinter", ...]
     },
     "JavaScript And TypeScript": {
