@@ -23,9 +23,9 @@
       "for": ["Web/Desktop Apps", "APIs", "Minimal Projects"],
       "frameworks": ["ASP Core", "Razor", "OpenAPI"]
     },
-    "other": ["GoLang", "Rust"]
+    "other": ["GoLang", "Rust", "C++"]
   },
-  "file extentions": ["YML", "csv", "JSON"],
+  "formats": [".yml", ".csv", ".json"],
   "databases": ["SQLite3", "PostgreSQL", "Redis", "Mongo"]
 }
 ```
