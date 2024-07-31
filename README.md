@@ -2,7 +2,6 @@
 
 ```json
 {
-  "origin": "Romania and Greece",
   "nationality": "French",
   "languages": {
     "Python": {
